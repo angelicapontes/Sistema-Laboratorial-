@@ -1,2 +1,2 @@
-# Sistema Laboratorial 
+# Sistema Laboratórial 
  Sistema administrativo laboratorial 
